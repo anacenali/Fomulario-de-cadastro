@@ -46,6 +46,8 @@ Este projeto consiste em um formulário de cadastro. O formulário coleta inform
 
 ## Referências 
 * [ViaCEP](https://viacep.com.br/)
+* [Form-CadEndereço](https://github.com/anacenali/form-CadEndereco-)
+* [Validações](https://github.com/anacenali/validacoes)
 
 ## Contato
 
