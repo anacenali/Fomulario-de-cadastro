@@ -39,6 +39,11 @@ Este projeto consiste em um formulário de cadastro. O formulário coleta inform
 - **Email Inválido**: Caso o usuário insira um e-mail em um formato inválido, será exibida uma mensagem de alerta.
 - **CPF Inválido**: Se o CPF não tiver 11 dígitos, uma mensagem de alerta será exibida.
 
+## Site
+![](Img.site.png)
+
+
+
 ## Referências 
 * [ViaCEP](https://viacep.com.br/)
 
