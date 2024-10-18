@@ -17,7 +17,9 @@ Este projeto consiste em um formulário de cadastro. O formulário coleta inform
   - **CPF**: Validação simples para garantir que o CPF possui 11 dígitos.
 - **Busca de Endereço**: Utiliza a API ViaCEP para preencher automaticamente o endereço a partir do CEP informado.
 
-## Estrutura do Projeto
+## Estrutura do código
+### JavaScript
+![](JS.cad.png)
 
 
 ## Como Usar
