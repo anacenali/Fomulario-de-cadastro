@@ -24,6 +24,8 @@ Este projeto consiste em um formulário de cadastro. O formulário coleta inform
 ### HTML
 ![](HTML.cad.png)
 
+### CSS
+![](CSS.cad.png)
 
 ## Como Usar
 
