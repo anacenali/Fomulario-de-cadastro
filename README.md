@@ -42,7 +42,7 @@ Este projeto consiste em um formulário de cadastro. O formulário coleta inform
 ## Site
 ![](Img2.site.png)
 
-![](video.cad.gif)
+![](video2.gif)
 
 ## Referências 
 * [ViaCEP](https://viacep.com.br/)
