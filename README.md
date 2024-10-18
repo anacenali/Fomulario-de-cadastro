@@ -51,7 +51,7 @@ Este projeto consiste em um formulário de cadastro. O formulário coleta inform
 
 ## Contato
 
-- **Ana Laura Cenali**: analauracenali@gmail.conm
+- **Ana Laura Cenali**: analauracenali@gmail.com
 - **GitHub**: [Ana Laura Cenali](https://github.com/anacenali)
 
 
