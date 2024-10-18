@@ -40,7 +40,7 @@ Este projeto consiste em um formulário de cadastro. O formulário coleta inform
 - **CPF Inválido**: Se o CPF não tiver 11 dígitos, uma mensagem de alerta será exibida.
 
 ## Site
-![](Img.site.png)
+![](Img2.site.png)
 
 ![](video.cad.gif)
 
